@@ -1,1 +1,1 @@
-# discord-bot
+This bot generates GIFs from tenor.
